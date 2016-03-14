@@ -1,0 +1,70 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #555555;
+	margin: 0;
+}
+
+h2 {
+	font-family: 'Lobster', cursive;
+}
+
+#title {
+	text-transform: uppercase;
+	font-size: 3em;
+	font-weight: 100;
+}
+
+header {
+	background-color: #5FB9B7;
+	color: white;
+	padding: 3%; 
+}
+
+main {
+	padding: 3%;
+	background-color: #9F3556;
+	color: white;
+}
+
+.photo-box {
+	background-color: white;
+	color: #555;
+	padding: 2%;
+	text-align: center;
+	float: left;
+	width: 25%;
+	margin-right: 2%;
+	margin-bottom: 2%;
+	min-height: 192px;
+	border-radius: 5px;
+}
+
+.photo-box img {
+	width: 65%;
+}
+
+.photo-box h4 {
+	font-weight: 100;
+}
+
+.more-info {
+	clear: both;
+	font-size: 0.8em;
+	font-style: italic;
+}
+
+footer {
+	background-color: #555555;
+	color: white;
+	padding: 3%;
+	text-align: right;
+}
+
+footer a {
+	color: white;
+	text-decoration: none;
+}
+
+footer a:hover {
+	color: #ccc;
+}
