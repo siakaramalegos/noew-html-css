@@ -4,11 +4,11 @@ This workshop was designed to introduce attendees to the basics of  programming 
 
 ## Free Resources to Learn More About HTML and CSS
 
-Learn to Code HTML and CSS by [Shay Howe](http://learn.shayhowe.com/)
-[HTML Dog](http://htmldog.com/guides/)
-HTML and CSS (Using Bootstrap) by [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud304)
-Codecademy [Web track](https://www.codecademy.com/tracks/web)
-CodeSchool [HTML/CSS path](https://www.codeschool.com/paths/html-css)
+- Learn to Code HTML and CSS by [Shay Howe](http://learn.shayhowe.com/)
+- [HTML Dog](http://htmldog.com/guides/)
+- HTML and CSS (Using Bootstrap) by [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+- Codecademy [Web track](https://www.codecademy.com/tracks/web)
+- CodeSchool [HTML/CSS path](https://www.codeschool.com/paths/html-css)
 
 ## Or, Learn to Code with Tech Talent South
 
